@@ -1,0 +1,22 @@
+[
+  {
+    "word": "javascript",
+    "hint": "Language used to make web pages interactive"
+  },
+  {
+    "word": "browser",
+    "hint": "Application you use to view websites"
+  },
+  {
+    "word": "variable",
+    "hint": "A named container for storing data"
+  },
+  {
+    "word": "function",
+    "hint": "Reusable block of code"
+  },
+  {
+    "word": "internet",
+    "hint": "Global network of connected computers"
+  }
+]
